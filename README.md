@@ -1,6 +1,6 @@
 # canvas-nest.js
 
-> A nest backgroud of website draw on canvas. 
+> 一个基于html5 canvas绘制的网页背景效果，非常赞！<br/>A nest backgroud of website draw on canvas. 
 
 
 ## feature
